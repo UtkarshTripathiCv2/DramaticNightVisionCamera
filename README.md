@@ -58,7 +58,7 @@ Clone the repository
 
 Bash
 
-git clone https://github.com/your_username/vision-command.git
+git clone https://github.com/UtkarshTripathiCv2/DramaticNightVisionCamera
 cd vision-command
 Install the required packages
 
