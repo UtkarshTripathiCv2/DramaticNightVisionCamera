@@ -6,7 +6,6 @@ A powerful computer vision toolkit built with Python and OpenCV that transforms 
 
 </div>
 
-## 演示 (Demo)
 This is what Vision Command looks like in action. The left pane shows the original webcam feed, while the right pane displays the processed output with all enhancements and overlays.
 
 [GIF of the Vision Command GUI in action]
